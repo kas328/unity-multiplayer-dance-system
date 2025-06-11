@@ -4,21 +4,21 @@ Unity multiplayer dance system with Photon PUN synchronization and proximity-bas
 
 ## 🛠 Tech Stack
 
-• Unity 2021.3+ 
-• C# 
-• Photon PUN 
-• UniTask 
-• Coroutines 
-• Singleton Pattern 
+- Unity 2021.3+
+- C#
+- Photon PUN
+- UniTask
+- Coroutines
+- Singleton Pattern
 
 ## ⭐ Key Features
 
-• 근거리 플레이어 자동 감지 
-• 실시간 댄스 초대 시스템 
-• 동기화된 카운트다운 및 댄스 실행 
-• 오디오/애니메이션 동시 재생 
-• 다국어 지원 알림 
-• 볼륨 및 음소거 설정 연동
+- 근거리 플레이어 자동 감지
+- 실시간 댄스 초대 시스템
+- 동기화된 카운트다운 및 댄스 실행
+- 오디오/애니메이션 동시 재생
+- 다국어 지원 알림
+- 볼륨 및 음소거 설정 연동
 
 ## 🎮 How It Works
 
